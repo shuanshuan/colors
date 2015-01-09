@@ -7,3 +7,12 @@ C:\temp\vs2012\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.Cache
 C:\temp\vs2012\Colors\Colors\obj\Debug\Colors.exe
 C:\temp\vs2012\Colors\Colors\obj\Debug\Colors.pdb
 C:\temp\vs2012\Colors\Colors\obj\Debug\Colors.pic.resources
+C:\temp\GitHub\colors\Colors\Colors\obj\Debug\Colors.exe
+C:\temp\GitHub\colors\Colors\Colors\obj\Debug\Colors.pdb
+C:\temp\GitHub\colors\Colors\Colors\bin\Debug\Colors.exe
+C:\temp\GitHub\colors\Colors\Colors\bin\Debug\Colors.pdb
+C:\temp\GitHub\colors\Colors\Colors\obj\Debug\Colors.csprojResolveAssemblyReference.cache
+C:\temp\GitHub\colors\Colors\Colors\obj\Debug\Colors.Form1.resources
+C:\temp\GitHub\colors\Colors\Colors\obj\Debug\Colors.pic.resources
+C:\temp\GitHub\colors\Colors\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\temp\GitHub\colors\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.Cache

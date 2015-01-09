@@ -32,7 +32,7 @@ namespace Colors
                 int x = e.Location.X;
                 int y = e.Location.Y;
 
-                if (x <= bm.Height && y <= bm.Width)
+                if (y <= bm.Height && x <= bm.Width)
                 {
                     Color c = bm.GetPixel(x, y);
                     lInfor.Text = string.Format("X:{0}, Y:{1}", x, y);
