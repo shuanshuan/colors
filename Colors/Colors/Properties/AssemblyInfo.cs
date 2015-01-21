@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Colors")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Websense, Inc.")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Colors")]
-[assembly: AssemblyCopyright("Copyright © Websense, Inc. 2014")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
